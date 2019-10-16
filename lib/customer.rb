@@ -25,5 +25,6 @@ end
 
   def waiters
     Waiter.all
+  end
   
 end
